@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I net-js a self taught beginner doing both backend (mostly) and frontend. I use [Node.js](https://github.com/nodejs/node) which i love i also use deno
+I net-js a self taught beginner doing both backend (mostly) and frontend. I use [Node.js](https://github.com/nodejs/node) i use to deno
 
 Working on few projects 🔭
- - [Thunderjs](https://github.com/net-js/thunderjs) release on july 1
- - [blog-y](https://github.com/net-js/net-js/discussions/2) release on june 1
-- rest are secrets or check my site blogy
+ - [**Thunderjs**](https://github.com/net-js/thunderjs) release on july 1
+ - [**Blog-y**](https://github.com/net-js/net-js/discussions/2) release on june 1
+- **Rest are secrets 🤫!** (_maybe hints on blog-y😁_)
 
-I’m looking to collaborate on node.js typescript and front-end apps electron etc
-sign -> sign.txt 
-(get my public key on gist and the format is hex and rsa-sha265)
+I’m looking to collaborate on **Node.js, Typescript, Front-end apps, Electron, JavaScript librarys** etc;  
+On StackOverflow: [**Steve**](https://stackoverflow.com/users/18844713/steve?tab=profile);  
+| **sign --> [sign.txt](https://github.com/net-js/net-js/blob/main/sign.txt)** _([PublicKey](https://gist.github.com/net-js/732043a7abf3bc2458425a63edd4df78) format is hex and rsa-sha265)_ |
