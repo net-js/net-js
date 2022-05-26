@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I net-js a self taught beginner doing both backend (mostly) and frontend. I use [Node.js](https://github.com/nodejs/node) i use to deno
+I net-js a self taught beginner doing both backend (mostly) and frontend. I use [Node.js](https://github.com/nodejs/node)
 
 Working on few projects 🔭
  - [**Thunderjs**](https://github.com/net-js/thunderjs) release on july 1
