@@ -3,8 +3,8 @@
 I net-js a self taught beginner doing both backend (mostly) and frontend. I use [Node.js](https://github.com/nodejs/node)
 
 Working on few projects 🔭
- - [**Thunderjs**](https://github.com/net-js/thunderjs) release on july 1
  - [**Blog-y**](https://github.com/net-js/blogy) release on june 1
+ - [**Project-Olivia**](https://github.com/net-js/Project-Olivia) release on june 1*
 - **Rest are secrets 🤫!** (_maybe hints on blog-y😁_)
 
 I’m looking to collaborate on **Node.js, Typescript, Front-end apps, Electron, JavaScript librarys** etc;  
